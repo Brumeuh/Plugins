@@ -1,2 +1,2 @@
-# Plugins
-Plugins For 3DS Games
+# MH3U Plugin
+Plugins For MH3U (EUR)
